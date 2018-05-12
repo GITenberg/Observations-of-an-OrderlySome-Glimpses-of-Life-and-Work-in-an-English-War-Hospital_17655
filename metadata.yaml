@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7524'
     url: http://www.gutenberg.org/2009/agents/7524
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17655#Observations-of-an-OrderlySome-Glimpses-of-Life-and-Work-in-an-English-War-Hospital
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
